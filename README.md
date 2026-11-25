@@ -1,5 +1,8 @@
-# TicTacToe_JavaRendition
-A two-player terminal game ported from the original Python program.
+# Tic-Tac-Toe in Java
+
+A two-player terminal Tic-Tac-Toe game ported from Python to Java. The port separates board rendering, move validation, win and draw checks, and the replay prompt. [Game source](src/TicTacToe.java)
+
+## Run locally
 
     mkdir build
     javac -d build src/TicTacToe.java
